@@ -11,9 +11,9 @@ using namespace std;
 
 int main()
 {
-    for (int i = 2; i < 9; i++)
+    for (int i = 2; i < 10; i++) // edit
     {
-        for (int j = 1; j < 9; j++)
+        for (int j = 1; j < 10; j++) // edit
         {
             cout << i << " x " << j << " = " << i * j << endl;
         }
